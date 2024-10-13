@@ -5,9 +5,9 @@ title = 'Chiara Zuanni'
 [params]
     copyright = "Chiara Zuanni 2022."
     description = "Associate Professor in Digital Humanities"
-    profilePicture = "/images/chiara.png"
+    profilePicture = "/ChiaraZuanni/images/chiara.png"
     mainSections = []
-    favicon = "/favicons/"
+    favicon = "/ChiaraZuanni/favicons/"
     contentratio = 0.8
     singleDateFormat = "2/1/2006"
     indexDateFormat = "2006"
@@ -32,35 +32,35 @@ url = "mailto:chiara.zuanni@gmail.com"
 
   [[menu.main]]
     name = "Home"
-    url = "/index"
+    url = "/ChiaraZuanni/index"
     weight = 1
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/ChiaraZuanni/about"
     weight = 2
   [[menu.main]]
     name = "Projects"
-    url = "/projects"
+    url = "/ChiaraZuanni/projects"
     weight = 2
   [[menu.main]]
     name = "Media"
-    url = "/media"
+    url = "/ChiaraZuanni/media"
     weight = 4
   [[menu.main]]
     name = "Service"
-    url = "/service"
+    url = "/ChiaraZuanni/service"
     weight = 3
   [[menu.main]]
     name = "Publications"
-    url = "/publications"
+    url = "/ChiaraZuanni/publications"
     weight = 2
   [[menu.main]]
     name = "Talks"
-    url = "/talks"
+    url = "/ChiaraZuanni/talks"
     weight = 2
   [[menu.main]]
     name = "Teaching"
-    url = "/teaching"
+    url = "/ChiaraZuanni/teaching"
     weight = 3
 
 [taxonomies]
