@@ -1,0 +1,75 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Chiara Zuanni'
+
+[params]
+    copyright = "Chiara Zuanni 2022."
+    description = "Associate Professor in Digital Humanities"
+    profilePicture = "/images/chiara.png"
+    mainSections = []
+    favicon = "/favicons/"
+    contentratio = 0.8
+    singleDateFormat = "2/1/2006"
+    indexDateFormat = "2006"
+    listDateFormat = "2006"
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://at.linkedin.com/in/chiara-zuanni-5a862144"
+
+[[params.socialIcons]]
+icon = "fas fa-university"
+title = "University Page"
+url = "http://bit.ly/uni-profile"  
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:chiara.zuanni@gmail.com"
+
+
+  [[menu.main]]
+    name = "Home"
+    url = "/index"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects"
+    weight = 2
+  [[menu.main]]
+    name = "Media"
+    url = "/media"
+    weight = 4
+  [[menu.main]]
+    name = "Service"
+    url = "/service"
+    weight = 3
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 2
+  [[menu.main]]
+    name = "Talks"
+    url = "/talks"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 3
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  status = "statuses"
+  typepub = "typepubs"
+  level = "levels"
+  institution = "institutions"
+
+[frontmatter]
+  date = ["date"]
