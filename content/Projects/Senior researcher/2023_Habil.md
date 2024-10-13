@@ -13,5 +13,5 @@ funders: '/'
 ## Talk_outputs: /talks/...
 tags: ["semantic web", "contemporary collecting", "audience research"]
 shortDesc: 'My Habilitation thesis focuses on theory and practices of data in museums, considering how digitisation practices, data-driven research, digital engagement and contmeporary collecting data affect the understanding of museum objects and digital curation work.'
-logo: '/images/habil.png'
+logo: '/ChiaraZuanni/images/habil.png'
 ---

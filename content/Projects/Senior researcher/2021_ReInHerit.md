@@ -16,5 +16,5 @@ Media_outputs: /media/...
 Events_outputs: /events/...
 tags: ["skills"]
 shortDesc: 'The ReInHerit project aims to develop collaboration and connections between cultural heritage collections and sites, while enhancing participation and awareness of EU cultural heritage among citizens and tourists. It aims to create a new model of sustainable heritage management, supported by a digital ecosystem centred around the Digital Hub, for whose development I am responsible.'
-logo: '/images/reinherit.png'
+logo: '/ChiaraZuanni/images/reinherit.png'
 ---

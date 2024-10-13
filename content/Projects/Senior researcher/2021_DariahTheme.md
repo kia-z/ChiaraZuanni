@@ -15,5 +15,5 @@ website: ''
 ## Events_outputs: /events/...
 tags: ["contemporary collecting", "COVID-19"]
 shortDesc: 'The project aimed to survey collections of memories and witnesses of the pandemic, identifying the processes and challenges encountered by memory organisations in dealing with such contemporary and (often) born-digital material.'
-logo: '/images/dariahtheme.png'
+logo: '/ChiaraZuanni/images/dariahtheme.png'
 ---

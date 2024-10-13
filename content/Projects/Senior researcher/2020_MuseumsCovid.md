@@ -15,5 +15,5 @@ website: 'https://digitalmuseums.at'
 ## Media_outputs: /media/...
 tags: ["COVID-19"]
 shortDesc: 'A digital and participative map aiming to collect and present the range of digital projects promoted and launched by museums since March 2020.'
-logo: '/images/mapPandemic.png'
+logo: '/ChiaraZuanni/images/mapPandemic.png'
 ---

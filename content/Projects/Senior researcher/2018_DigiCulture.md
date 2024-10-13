@@ -15,5 +15,5 @@ website: 'https://digiculture.eu/en/'
 ## Events_outputs: /events/...
 tags: ["skills"]
 shortDesc: 'The project DigiCulture aims to develop a MOOC on digital skills for adults in the creative industries. It drew on data emerging from an analysis of the creative and cultural industries and on the competences emphasised in the DigiComp EU framework to develop 13 modules covering a range of digital skills and tools.'
-logo: '/images/digiculture.png'
+logo: '/ChiaraZuanni/images/digiculture.png'
 ---
