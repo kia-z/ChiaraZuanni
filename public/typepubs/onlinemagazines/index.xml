@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>onlinemagazines on Chiara Zuanni</title>
+    <link>http://example.org/typepubs/onlinemagazines/</link>
+    <description>Recent content in onlinemagazines on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/typepubs/onlinemagazines/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online contributions</title>
+      <link>http://example.org/publications/other/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/other/</guid>
+      <description>Zuanni, Chiara. Mapping museum digital initiatives during COVID-19. Europeana Pro. Published 04.08.2020. Available here
+Melcher, Sabrina &amp;amp; Zuanni, Chiara. Mapping der digitalen Reaktionen von Museen während des Corona Lockdowns. Museumspraxis. Published 01.08.2020. Available here
+Melcher, Sabrina &amp;amp; Zuanni, Chiara. Eine Karte der digitalen Initiativen von Museen während COVID-19. ICOM Österreich. Published 30.07.2020. Available here
+Zuanni, Chiara. Digital responses from locked-down museums. Cultural Practice Magazine. Published 29.06.2020. Available here</description>
+    </item>
+    
+  </channel>
+</rss>

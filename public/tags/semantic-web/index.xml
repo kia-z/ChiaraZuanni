@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>semantic web on Chiara Zuanni</title>
+    <link>http://example.org/tags/semantic-web/</link>
+    <description>Recent content in semantic web on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/semantic-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arvanitis, K.; Zuanni, C. (2021). *Museums &amp; Society*. Special issue: Digital (and) materiality in museums.</title>
+      <link>http://example.org/publications/mands2021/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/mands2021/</guid>
+      <description>Arvanitis, K.; Zuanni, C. (2021). Museums &amp;amp; Society. Special issue: Digital (and) materiality in museums.</description>
+    </item>
+    
+    <item>
+      <title>Anas Alaoui Darhri; Vincent Baillet; Bastien Bourineau; Alessio Calantropio; Gabriella Carpentiero; Zuanni, C.; et al. (2019). *Share - Publish - Store - Preserve. Methodologies, Tools and Challenges for 3D Use in Social Sciences and Humanities.* PARTHENOS, Feb 2019, Marseille, France. Available at: https://hal.archives-ouvertes.fr/hal-02155055 ⟨hal-02155055⟩</title>
+      <link>http://example.org/publications/parthenos2019/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/parthenos2019/</guid>
+      <description>Anas Alaoui M&#39;Darhri; Vincent Baillet; Bastien Bourineau; Alessio Calantropio; Gabriella Carpentiero; Zuanni, C.; et al. (2019). Share - Publish - Store - Preserve. Methodologies, Tools and Challenges for 3D Use in Social Sciences and Humanities. PARTHENOS, Feb 2019, Marseille, France. Available at: https://hal.archives-ouvertes.fr/hal-02155055 ⟨hal-02155055⟩</description>
+    </item>
+    
+    <item>
+      <title>Database of British auction catalogues of Chinese objects</title>
+      <link>http://example.org/projects/doctoral-research-assistant/2012_summerpalace/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/projects/doctoral-research-assistant/2012_summerpalace/</guid>
+      <description>I prepared a database and tables transcribing catalogues of British auctions, in support of Dr Tythacott&amp;rsquo;s research.</description>
+    </item>
+    
+  </channel>
+</rss>

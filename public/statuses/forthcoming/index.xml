@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forthcoming on Chiara Zuanni</title>
+    <link>http://example.org/statuses/forthcoming/</link>
+    <description>Recent content in forthcoming on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/statuses/forthcoming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arvanitis, K.; Zuanni, C. (2021). *Museums &amp; Society*. Special issue: Digital (and) materiality in museums.</title>
+      <link>http://example.org/publications/mands2021/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/mands2021/</guid>
+      <description>Arvanitis, K.; Zuanni, C. (2021). Museums &amp;amp; Society. Special issue: Digital (and) materiality in museums.</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C. (2021). Public perception of archaeology in the museum. In Westmont, C. (ed). *Critical Public Archaeologies*. Berghahn books.</title>
+      <link>http://example.org/publications/critpubarch2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/critpubarch2021/</guid>
+      <description>Zuanni, C. (2021). Public perception of archaeology in the museum. In Westmont, C. (ed). Critical Public Archaeologies. Berghahn books.</description>
+    </item>
+    
+  </channel>
+</rss>

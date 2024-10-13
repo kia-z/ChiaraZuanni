@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typepubs on Chiara Zuanni</title>
+    <link>http://example.org/typepubs/</link>
+    <description>Recent content in Typepubs on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/typepubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>edited</title>
+      <link>http://example.org/typepubs/edited/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/edited/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conferencePaper</title>
+      <link>http://example.org/typepubs/conferencepaper/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/conferencepaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal</title>
+      <link>http://example.org/typepubs/journal/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>onlinemagazines</title>
+      <link>http://example.org/typepubs/onlinemagazines/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/onlinemagazines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>otherpub</title>
+      <link>http://example.org/typepubs/otherpub/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/otherpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookChapter</title>
+      <link>http://example.org/typepubs/bookchapter/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/typepubs/bookchapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

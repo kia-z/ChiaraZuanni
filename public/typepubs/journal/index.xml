@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journal on Chiara Zuanni</title>
+    <link>http://example.org/typepubs/journal/</link>
+    <description>Recent content in journal on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/typepubs/journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zuanni, C. (2020). Heritage in a digital world: algorithms, data, and futures values generation. In: *LIMINA* 3(2), Autumn 2020. &lt;https://unipub.uni-graz.at/limina/content/titleinfo/5552067/full.pdf&gt;</title>
+      <link>http://example.org/publications/limina2020/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/limina2020/</guid>
+      <description>Zuanni, C. (2020). Heritage in a digital world: algorithms, data, and futures values generation. In: LIMINA 3(2), Autumn 2020. https://unipub.uni-graz.at/limina/content/titleinfo/5552067/full.pdf</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C., (2019). Capturing the ephemerality of exhibitions in a digital format. In: *British Art Studies*, 13. &lt;https://doi.org/10.17658/issn.2058-5462/issue-13/conversation/p34&gt;</title>
+      <link>http://example.org/publications/britishartstudies2019/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/britishartstudies2019/</guid>
+      <description>Zuanni, C., (2019). Capturing the ephemerality of exhibitions in a digital format. In: British Art Studies, 13. https://doi.org/10.17658/issn.2058-5462/issue-13/conversation/p34</description>
+    </item>
+    
+    <item>
+      <title>Zuanni C., Price, C. (2018). The mystery of the &#34;spinning statue&#34; at Manchester Museum. In: *Material Religion*, 14:2, 235-251, DOI: &lt;https://doi.org/10.1080/17432200.2018.1443895&gt;.</title>
+      <link>http://example.org/publications/materialreligion2018/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/materialreligion2018/</guid>
+      <description>Zuanni C., Price, C. (2018). The mystery of the &amp;ldquo;spinning statue&amp;rdquo; at Manchester Museum. In: Material Religion, 14:2, 235-251, DOI: https://doi.org/10.1080/17432200.2018.1443895. {id=&amp;ldquo;reference&amp;rdquo;}
+blablalbla {id=&amp;ldquo;abstract&amp;rdquo;}</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C. 2017 Unintended Collaborations: interpreting archaeology on social media, Internet Archaeology 46. &lt;https://doi.org/10.11141/ia.46.2&gt;</title>
+      <link>http://example.org/publications/internetarchaeology2017/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/internetarchaeology2017/</guid>
+      <description>Zuanni, C. 2017 Unintended Collaborations: interpreting archaeology on social media, Internet Archaeology 46. https://doi.org/10.11141/ia.46.2</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C., 2017. &#34;Italian Museums and Twitter: an analysis of Museum Week 2016&#34;, in Archeostorie. Italian Journal of Public Archaeology 1. &lt;http://www.archeostoriejpa.eu/2017_4c/&gt;.</title>
+      <link>http://example.org/publications/archeostorie2017/</link>
+      <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/archeostorie2017/</guid>
+      <description>Zuanni, C., 2017. &amp;ldquo;Italian Museums and Twitter: an analysis of Museum Week 2016&amp;rdquo;, in Archeostorie. Italian Journal of Public Archaeology 1. http://www.archeostoriejpa.eu/2017_4c/.</description>
+    </item>
+    
+  </channel>
+</rss>

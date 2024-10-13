@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contemporary collecting on Chiara Zuanni</title>
+    <link>http://example.org/tags/contemporary-collecting/</link>
+    <description>Recent content in contemporary collecting on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/contemporary-collecting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arvanitis, K.; Zuanni, C. (2021). *Museums &amp; Society*. Special issue: Digital (and) materiality in museums.</title>
+      <link>http://example.org/publications/mands2021/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/mands2021/</guid>
+      <description>Arvanitis, K.; Zuanni, C. (2021). Museums &amp;amp; Society. Special issue: Digital (and) materiality in museums.</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C. (2020). Heritage in a digital world: algorithms, data, and futures values generation. In: *LIMINA* 3(2), Autumn 2020. &lt;https://unipub.uni-graz.at/limina/content/titleinfo/5552067/full.pdf&gt;</title>
+      <link>http://example.org/publications/limina2020/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/limina2020/</guid>
+      <description>Zuanni, C. (2020). Heritage in a digital world: algorithms, data, and futures values generation. In: LIMINA 3(2), Autumn 2020. https://unipub.uni-graz.at/limina/content/titleinfo/5552067/full.pdf</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Institutions on Chiara Zuanni</title>
+    <link>http://example.org/institutions/</link>
+    <description>Recent content in Institutions on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/institutions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Institute of Cultural Capital, University of Liverpool and Liverpool John Moores University</title>
+      <link>http://example.org/institutions/institute-of-cultural-capital-university-of-liverpool-and-liverpool-john-moores-university/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/institutions/institute-of-cultural-capital-university-of-liverpool-and-liverpool-john-moores-university/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research department, Victoria and Albert Museum London</title>
+      <link>http://example.org/institutions/research-department-victoria-and-albert-museum-london/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/institutions/research-department-victoria-and-albert-museum-london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institute for Cultural Practices, University of Manchester</title>
+      <link>http://example.org/institutions/institute-for-cultural-practices-university-of-manchester/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/institutions/institute-for-cultural-practices-university-of-manchester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institute for Cultural Practices, University of Manchester, School of Arts, Language, and Cultures, University of Manchester, Manchester Histories Festival, Kipling Society</title>
+      <link>http://example.org/institutions/institute-for-cultural-practices-university-of-manchester-school-of-arts-language-and-cultures-university-of-manchester-manchester-histories-festival-kipling-society/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/institutions/institute-for-cultural-practices-university-of-manchester-school-of-arts-language-and-cultures-university-of-manchester-manchester-histories-festival-kipling-society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian Studies, University of Manchester</title>
+      <link>http://example.org/institutions/italian-studies-university-of-manchester/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/institutions/italian-studies-university-of-manchester/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

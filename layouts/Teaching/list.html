@@ -1,0 +1,66 @@
+{{ define "main" }}
+  <div class="container pt-5">
+
+  <div class="post-content">  
+      <div class="post-title">
+        <h1>{{ .Title }}</h1>
+      </div>
+      <hr>
+  </div>
+
+  <div> {{ .Content }}</div>
+  
+  <div class="list-mine">
+
+      <h3>My teaching in Graz</h3>
+        <p>In Graz, I have been regularly co-teaching a series of courses, and I have co-developed or independently developed new ones.</p>
+        {{ range .Site.Taxonomies.statuses.overview }}
+        <ul class="listing">
+          <h4>{{ .Title }}</h4>        
+            {{ .Content }}  
+        </ul>
+          {{ end }}
+<!--        
+      <h3>List of courses in Graz</h3>
+        {{ range .Site.Taxonomies.statuses.list }}
+        <ul class="listing">
+          <li class="listing-post">
+            <b>{{ .Title }}</b></li>        
+            {{ .Content }}  
+        </ul>
+          {{ end }}
+
+      <h3>Course materials and outcomes</h3>
+          {{ range .Site.Taxonomies.statuses.highlights }}
+                <ul class="listing">
+                  <li class="listing-post">
+                    <b>{{ .Title }}</b></li>        
+                    {{ .Content }}
+                </ul>
+              {{ end }}
+-->      
+      <h3>Supervision and examiner roles</h3>
+              {{ range .Site.Taxonomies.statuses.supervision }}
+                <ul class="listing">
+                  <li class="listing-post">
+                    <b>{{ .Title }}</b></li>        
+                    {{ .Content }}  
+                </ul>
+              {{ end }}
+
+      <h3>Previous experience (pre-2018)</h3>
+        {{ range .Site.Taxonomies.statuses.old }}
+        <ul class="listing">
+          <li class="listing-post">
+            <b>{{ .Title }}</b></li>        
+            {{ .Content }}  
+        </ul>
+          {{ end }}
+
+  </div> 
+</div>
+    
+  {{ partial "partials/footer.html" . }}
+
+{{ end }}
+

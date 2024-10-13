@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Chiara Zuanni</title>
+    <link>http://example.org/teaching/</link>
+    <description>Recent content in Teaching on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course: Social Media Research in the Arts (UniGraz)</title>
+      <link>http://example.org/teaching/socialmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/socialmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course: Digital Museology (UniGraz)</title>
+      <link>http://example.org/teaching/digitalmuseology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/digitalmuseology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course: Digital Reproductions in Cultural Heritage (UniGraz)</title>
+      <link>http://example.org/teaching/3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jointly taught courses in Digital Humanities (UniGraz)</title>
+      <link>http://example.org/teaching/coteaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/coteaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MA Thesis supervision (UniGraz)</title>
+      <link>http://example.org/teaching/mastertheses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/mastertheses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past experience (2008-2018)</title>
+      <link>http://example.org/teaching/pastexperience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/pastexperience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD supervision and examination</title>
+      <link>http://example.org/teaching/phdlevel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/phdlevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest lectures</title>
+      <link>http://example.org/teaching/otherteaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/teaching/otherteaching/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

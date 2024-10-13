@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>edited on Chiara Zuanni</title>
+    <link>http://example.org/typepubs/edited/</link>
+    <description>Recent content in edited on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/typepubs/edited/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arvanitis, K.; Zuanni, C. (2021). *Museums &amp; Society*. Special issue: Digital (and) materiality in museums.</title>
+      <link>http://example.org/publications/mands2021/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/mands2021/</guid>
+      <description>Arvanitis, K.; Zuanni, C. (2021). Museums &amp;amp; Society. Special issue: Digital (and) materiality in museums.</description>
+    </item>
+    
+    <item>
+      <title>Armitage, N.; Houlbrook, C.; Zuanni, C. (2018). *Material Religion*, 14.2. Special issue: Cataloging magic.</title>
+      <link>http://example.org/publications/catalogmagic2018/</link>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/catalogmagic2018/</guid>
+      <description>Armitage, N.; Houlbrook, C.; Zuanni, C. (2018). Material Religion, 14.2. Special issue: Cataloging magic.</description>
+    </item>
+    
+  </channel>
+</rss>

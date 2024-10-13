@@ -1,0 +1,137 @@
+{{ define "main" }}
+<div class="container pt-5">
+
+    <div class="post-content">  
+        <div class="post-title">
+          <h1>{{ .Title }}</h1>
+        </div>
+        <hr>
+    </div>
+
+<div class="container pt-5"> <!-- content container-->
+
+
+    <div class="pt-2">   
+        <h2>Journal Articles</h2>
+        {{ $counter := 0 }}
+        {{ range .Site.Taxonomies.typepubs.journal }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionJournals">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="{{ $counter }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ $counter }}" aria-expanded="false" aria-controls="flush-collapse{{ $counter }}">
+                    {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}. In: {{ .Params.partof }}</button>
+              </h2>
+              <div id="flush-collapse{{ $counter }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ $counter }}" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">              
+                    <p>{{ .Content }}</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="pt-4">   
+        <h2>Book Chapters</h2>
+        {{ range .Site.Taxonomies.typepubs.bookchapter }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionBookChapters">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="{{ $counter }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ $counter }}" aria-expanded="false" aria-controls="flush-collapse{{ $counter }}">
+                    {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}. In: {{ .Params.partof }}
+                </button>
+              </h2>
+              <div id="flush-collapse{{ $counter }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ $counter }}" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">              
+                    <p>{{ .Content }}</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="pt-4">   
+        <h2>Edited special issues</h2>
+        {{ range .Site.Taxonomies.typepubs.edited }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionEdited">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="{{ $counter }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ $counter }}" aria-expanded="false" aria-controls="flush-collapse{{ $counter }}">
+                    {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}, {{ .Params.partof }}.
+                </button>
+              </h2>
+              <div id="flush-collapse{{ $counter }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ $counter }}" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">              
+                    <p>{{ .Content }}</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="pt-4">   
+        <h2>Conference Proceedings</h2>
+        {{ range .Site.Taxonomies.typepubs.conferencepaper }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionConferencepaper">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="{{ $counter }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ $counter }}" aria-expanded="false" aria-controls="flush-collapse{{ $counter }}">
+                    {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}. In: {{ .Params.partof }}
+                </button>
+              </h2>
+              <div id="flush-collapse{{ $counter }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ $counter }}" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">              
+                    <p>{{ .Content }}</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="pt-4">   
+        <h2>Other publications</h2>
+        {{ range .Site.Taxonomies.typepubs.otherpub }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionOtherpub">
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="{{ $counter }}">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ $counter }}" aria-expanded="false" aria-controls="flush-collapse{{ $counter }}">
+                  {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}. In: {{ .Params.partof }}
+                </button>
+              </h2>
+              <div id="flush-collapse{{ $counter }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ $counter }}" data-bs-parent="#accordionFlushExample">
+                <div class="accordion-body">              
+                    <p>{{ .Content }}</p>
+                </div>
+              </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    <div class="pt-4">   
+        <h2>Online Contributions, blogs, etc.</h2>
+        {{ range .Site.Taxonomies.typepubs.onlinemagazines }}
+        {{ $counter = add $counter 1 }}
+        <div class="accordion accordion-flush" id="accordionOnlinemagazines">
+            <div class="accordion-item">
+              <p id="{{ $counter }}">
+                  {{ $counter }}. {{ .Params.author }} ({{ .Params.year }}). {{ .Title }}. In: {{ .Params.partof }}, <a href="{{ .Params.web }}">Link</a>
+                </p>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+ <!-- closes content container-->
+</div>
+<!--close container-->
+</div>
+{{ partial "partials/footer.html" . }}
+{{ end }}

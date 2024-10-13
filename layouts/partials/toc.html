@@ -1,0 +1,28 @@
+{{- $headers := findRE "<h[2-6].*?>(.|\n])+?</h[2-6]>" .Content -}}
+{{ .Scratch.Set "last_level" 1 }}
+
+{{/* at least one header to link to */}}
+{{- $has_headers := ge (len $headers) 1 -}}
+{{- if $has_headers -}}
+<div class="table-of-contents">
+    <details>
+        <summary>Contents</summary>
+    {{- range $headers -}}
+        {{- $header := . -}}
+        {{- $base := ($.Page.File.LogicalName) -}}
+        {{- $anchorId := ($header | plainify | htmlUnescape | anchorize) -}}
+        {{- $href := delimit (slice $base $anchorId) "#" | string -}}
+        {{- range findRE "[2-6]" . 1 -}}
+            {{- $next_heading := (int .) -}}
+            {{- if gt $next_heading ($.Scratch.Get "last_level") -}}
+                <ol class="toc-h{{ . }}">
+            {{- else if lt $next_heading ($.Scratch.Get "last_level") -}}
+                </ol>
+            {{- end -}}
+            <li><a href="{{ relref $.Page $href }}">{{- $header | plainify | htmlUnescape -}}</a></li>
+            {{ $.Scratch.Set "last_level" $next_heading }}
+        {{- end -}}
+    {{- end -}}
+    </details>
+</div>
+{{- end -}}

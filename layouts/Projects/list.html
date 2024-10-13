@@ -1,0 +1,164 @@
+{{ define "main" }}
+  <div class="container pt-5">
+
+  <div class="post-content">  
+      <div class="post-title">
+        <h1>{{ .Title }}</h1>
+      </div>
+      <hr>
+  </div>
+
+  <div> 
+    {{ .Content }} <!--introductory paragraph-->
+  </div>
+  
+  <div class="container">
+    <div class="row g-3" id="ongoing">
+      <h3 class="py-3">On-going projects</h3>
+      <h6>Projects I am currently working on.</h6>
+      {{ $counter := 0 }}
+      {{ range .Site.Taxonomies.statuses.ongoing }}
+      {{ $counter = add $counter 1 }}
+      <div class="col-lg-4 col-md-6 d-flex">
+      <div class="card-group">
+        <div class="card">
+          <img class="card-img-top" src='{{ .Params.logo }}' style="max-width: 100%;">
+          <div class="card-body">
+            <h5 class="card-title">{{ .Title }}</h5>
+            <p class="card-text">{{ .Params.shortDesc }}</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">Funder: {{ .Params.funders }}, {{ .Params.year }}<br/>
+               <!-- {{ partial "partials/gettags.html" . }} -->
+              Role: {{ .Params.myRoles }}<br/>
+              <a href="{{ .Params.website }}">{{ .Params.website }}</a>
+              </small>
+          </div> 
+        </div>
+      </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="row g-3" id="completed">
+      <h3 class="py-3">Completed projects</h3>
+      <h6>Completed projects in which I had a significant involvment, often acting as PI, local PI, or co-PI.</h6>
+      {{ $counter := 0 }}
+      {{ range .Site.Taxonomies.statuses.completedlead }}
+      {{ $counter = add $counter 1 }}
+      <div class="col-lg-4 col-md-6 d-flex">
+        <div class="card-group">
+          <div class="card">
+            <img class="card-img-top" src='{{ .Params.logo }}' style="max-width: 100%;">
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <p class="card-text">{{ .Params.shortDesc }}</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Funder: {{ .Params.funders }}, {{ .Params.year }}<br/>
+               <!-- {{ partial "partials/gettags.html" . }} -->
+               Role: {{ .Params.myRoles }}<br/>
+               <a href="{{ .Params.website }}">{{ .Params.website }}</a>
+              </small>
+            </div> 
+          </div>
+        </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="row g-3" id="completed">
+      <h3 class="py-3">Other completed projects (minor roles)</h3>
+      <h6>Projects to which I had a chance of contributing in secondary roles.</h6>
+      {{ $counter := 0 }}
+      {{ range .Site.Taxonomies.statuses.minor }}
+      {{ $counter = add $counter 1 }}
+      <div class="col-lg-4 col-md-6 d-flex">
+        <div class="card-group">
+          <div class="card">
+            <img class="card-img-top" src='{{ .Params.logo }}' style="max-width: 100%;">
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <p class="card-text">{{ .Params.shortDesc }}</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Funder: {{ .Params.funders }}, {{ .Params.year }}<br/>
+               <!-- {{ partial "partials/gettags.html" . }} -->
+               Role: {{ .Params.myRoles }}<br/>
+               <a href="{{ .Params.website }}">{{ .Params.website }}</a>
+              </small>
+            </div> 
+          </div>
+        </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="row g-3" id="postdoc">
+      <h3 class="py-3">Completed projects (as postdoctoral fellow)</h3>
+      <h6>These are projects I worked on during my time as a postdoc at the University of Liverpool and at the Victoria and Albert Museum in London.</h6>
+      {{ $counter := 0 }}
+      {{ range .Site.Taxonomies.statuses.completedpostdoc }}
+      {{ $counter = add $counter 1 }}
+      <div class="col-lg-4 col-md-6 d-flex">
+        <div class="card-group">
+          <div class="card">
+            <img class="card-img-top" src='{{ .Params.logo }}' style="max-width: 100%;">
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <p class="card-text">{{ .Params.shortDesc }}</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Funder: {{ .Params.funders }}, {{ .Params.year }}<br/>
+               <!-- {{ partial "partials/gettags.html" . }} -->
+               Role: {{ .Params.myRoles }}<br/>
+               <a href="{{ .Params.website }}">{{ .Params.website }}</a>
+              </small>
+            </div> 
+          </div>
+        </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container mt-3">
+    <div class="row g-3" id="phd">
+      <h3 class="py-3">Completed projects (as assistant)</h3>
+      <h6>I worked on all these projects as a doctoral research assistant at the Institute of Cultural Practices, University of Manchester.</h6>
+      {{ $counter := 0 }}
+      {{ range .Site.Taxonomies.statuses.completedphd }}
+      {{ $counter = add $counter 1 }}
+      <div class="col-lg-4 col-md-6 d-flex">
+        <div class="card-group">
+          <div class="card">
+            <img class="card-img-top" src='{{ .Params.logo }}' style="max-width: 100%;">
+            <div class="card-body">
+              <h5 class="card-title">{{ .Title }}</h5>
+              <p class="card-text">{{ .Params.shortDesc }}</p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">{{ .Params.year }}<br/>
+               <!-- {{ partial "partials/gettags.html" . }} -->
+               Role: {{ .Params.myRoles }}<br/>
+              </small>
+            </div> 
+          </div>
+        </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+
+<!--close container-->
+</div>
+
+{{ partial "partials/footer.html" . }}
+
+{{ end }}

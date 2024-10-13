@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div
+class="container pt-5 {{ with .Site.Params.doNotLoadAnimations }}
+  .
+
+{{ else }}
+  animated fadeInDown
+
+{{ end }}"
+>
+  <div class="post-content">  
+            
+      {{ .Content }}
+
+    </div>
+
+
+  </div>
+  {{ partial "partials/footer.html" . }}
+
+{{ end }}

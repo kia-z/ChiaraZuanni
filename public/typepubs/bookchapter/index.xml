@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bookChapter on Chiara Zuanni</title>
+    <link>http://example.org/typepubs/bookchapter/</link>
+    <description>Recent content in bookChapter on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/typepubs/bookchapter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moshenska, G.; Zuanni, C. (2018). Public Archaeology. In: López Varela, S.L. (ed.), *SAS* *Encyclopedia of Archaeological Sciences*, Wiley-Blackwell.</title>
+      <link>http://example.org/publications/pubarch2018/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/pubarch2018/</guid>
+      <description>Moshenska, G.; Zuanni, C. (2018). Public Archaeology. In: López Varela, S.L. (ed.), SAS Encyclopedia of Archaeological Sciences, Wiley-Blackwell.</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C., 2017. &#34;Archaeological displays: Ancient objects, current beliefs&#34; in G. Buggeln, C. Paine, and S. B. Plate (eds.), Religion in Museums: Today and Tomorrow. London: Bloomsbury Publishing.</title>
+      <link>http://example.org/publications/relmuseums2017/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/relmuseums2017/</guid>
+      <description>Zuanni, C., 2017. &amp;ldquo;Archaeological displays: Ancient objects, current beliefs&amp;rdquo; in G. Buggeln, C. Paine, and S. B. Plate (eds.), Religion in Museums: Today and Tomorrow. London: Bloomsbury Publishing.</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C., 2009. &#34;The earliest archaeological evidence of Christianity in Kazakhstan&#34; in G. Bonora, N. Pianciola, P. Sartori (eds.), Kazakhstan. Religions and Society in the History of Central Eurasia, Torino; New York: U. Allemandi, pp. 67-­‐79.</title>
+      <link>http://example.org/publications/kazakhstan2009/</link>
+      <pubDate>Sat, 10 Oct 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/kazakhstan2009/</guid>
+      <description>Zuanni, C., 2009. &amp;ldquo;The earliest archaeological evidence of Christianity in Kazakhstan&amp;rdquo; in G. Bonora, N. Pianciola, P. Sartori (eds.), Kazakhstan. Religions and Society in the History of Central Eurasia, Torino; New York: U. Allemandi, pp. 67-­‐79.</description>
+    </item>
+    
+    <item>
+      <title>Zuanni, C. (2021). Public perception of archaeology in the museum. In Westmont, C. (ed). *Critical Public Archaeologies*. Berghahn books.</title>
+      <link>http://example.org/publications/critpubarch2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/publications/critpubarch2021/</guid>
+      <description>Zuanni, C. (2021). Public perception of archaeology in the museum. In Westmont, C. (ed). Critical Public Archaeologies. Berghahn books.</description>
+    </item>
+    
+  </channel>
+</rss>

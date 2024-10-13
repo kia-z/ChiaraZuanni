@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Chiara Zuanni - personal website</title>
+    {{ partial "partials/head.html" . }}
+
+  </head>
+  <body>
+    {{ partial "partials/navbar.html" . }}
+    {{ block "main" . }}
+    {{ partial "partials/footer.html" . }}
+    {{ end }}
+  </body>
+</html>

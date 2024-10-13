@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<div class="container pt-5">
+  <div class="row">
+    <div class="col-4">
+      <div class="container">
+        <h2 class="pb-2 border-bottom"><i class="fas fa-route"></i></h2>
+        <div class="resume-item">
+          <h5>Associate professor in digital humanities</h5>
+          <p>2024 - Present, <em>University of Graz, Austria</em></p>
+        </div>
+        <div class="resume-item">
+            <h5>Assistant professor in digital humanities</h5>
+            <p>2018 - 2024, <em>University of Graz, Austria</em></p>
+          </div>
+          <div class="resume-item">
+            <h5>Postdoctoral researcher</h5>
+            <p>2016-2017, <em>Victoria and Albert Museum, London, UK</em></p>
+          </div>
+          <div class="resume-item">
+            <h5>Postdoctoral researcher</h5>
+            <p>2016, <em>University of Liverpool, UK</em></p>
+          </div>
+          <div class="resume-item">
+            <h5>PhD in Museology</h5>
+            <p>2011-2015, <em>University of Manchester, UK</em></p>
+          </div>
+          <!-- 
+          <div class="resume-item">
+            <h5>Research assistant</h5>
+            <h6>2012-2016</h6>
+            <p><em>University of Manchester, UK</em></p>
+          </div>
+          <div class="resume-item">
+            <h5>Graduate Teaching Assistant</h5>
+            <h6>2013-2016</h6>
+            <p><em>University of Manchester, UK</em></p>
+          </div>
+          -->
+          <div class="resume-item">
+            <h5>Master in Archaeology and Cultures of the Ancient World</h5>
+            <p>2008-2010, <em>University of Bologna, Italy</em></p>
+          </div>
+          <div class="resume-item">
+            <h5>Bachelor in Classics</h5>
+            <p>2005-2008, <em>University of Bologna, Italy</em></p>
+          </div>    
+        </div>
+    </div>
+    <div class="col-8">
+      <h2 class="pb-2 border-bottom">Short bio</h2>
+      {{ with .Site.GetPage "about" }}
+      {{ .Content }}  
+      {{end}}
+    </div>
+  </div>
+</div> 
+  {{ partial "partials/footer.html" . }}
+
+  {{ end }}

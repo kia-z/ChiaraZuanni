@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<section id="hero" class="hero">
+<div class="container col-xxl-8 px-4 py-5">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <img src="/images/chiara.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+      </div>
+      <div class="col-lg-6">
+        <h1 class="display-5 fw-bold lh-1 mb-3">Chiara Zuanni</h1>
+        <p class="lead">I am an associate professor in digital humanities, with a focus on museology, based at the University of Graz.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="researchInterests">
+  <div class="container px-4 py-5" id="icon-grid">
+    <h2 class="pb-2 border-bottom text-center">Research Interests</h2>
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4 py-5">
+      <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Digital representations of museum histories</h4>
+          <p>I am interested in researching and developing ways for visualising museum histories with digital media, considering both collection and archival data, 
+            as well as 3D and immersive representations of the museum spaces. 
+          </p>
+        </div>
+      </div>
+        <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Born digital heritage</h4>
+          <p>Late 20th and 21st century heritage is often born digital: I am interested in how museums are acquiring, preserving, interpreting, and displaying this material and
+            in the potential synergies between the web archiving community and contemporary collecting projects.
+          </p>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Public Perceptions of Archaeology</h4>
+          <p>In my PhD, I researched the influence of public perceptions of archaeology on museums - and I am still interested in observing uses of the past and cultural heritage,
+          especially in relation to museums and the digital sphere.
+          </p>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Museum data</h4>
+          <p>I also am interested in digitisation, data standardisation and data-driven research in museum collections. On the one hand, I am interested in the digital representation of museum objects (e.g. modelling object biographies); 
+            on the other hand, I am interested in researching "collections as data", especially in relation to collection histories and histories of curation.
+          </p>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Digital Audience Research</h4>
+          <p>I use data-driven methods and digital ethnographies to research digital museum audiences. I am interested in understanding how audience experiences are
+            affected by digital mediation and communication and I am interested in audience benchmarks and evaluation in digital projects.
+          </p>
+        </div>
+      </div>
+      <div class="col d-flex align-items-start">
+        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
+        <div>
+          <h4 class="fw-bold mb-0">Digital skills in the heritage sector</h4>
+          <p>I have worked on few projects aiming to develop training resources for the museum and heritage sector, and I am interested in further contributing
+            to increase digital skills and expertise in museums. After my work on the so-called "digital turn" during COVID-19, I am also interested 
+            in the development of digital strategies in the sector.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ partial "partials/footer.html" . }}
+{{end}}

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statuses on Chiara Zuanni</title>
+    <link>http://example.org/statuses/</link>
+    <description>Recent content in Statuses on Chiara Zuanni</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/statuses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>forthcoming</title>
+      <link>http://example.org/statuses/forthcoming/</link>
+      <pubDate>Sun, 08 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/forthcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>published</title>
+      <link>http://example.org/statuses/published/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/published/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>completedPostdoc</title>
+      <link>http://example.org/statuses/completedpostdoc/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/completedpostdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>completedPhD</title>
+      <link>http://example.org/statuses/completedphd/</link>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/completedphd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active</title>
+      <link>http://example.org/statuses/active/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/active/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>past</title>
+      <link>http://example.org/statuses/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/statuses/past/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
