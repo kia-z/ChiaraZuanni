@@ -68,8 +68,6 @@ url = "mailto:chiara.zuanni@gmail.com"
   tag = "tags"
   status = "statuses"
   typepub = "typepubs"
-  level = "levels"
-  institution = "institutions"
 
 [frontmatter]
   date = ["date"]
