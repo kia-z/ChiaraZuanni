@@ -129,7 +129,8 @@ towards digital methods for exhibition histories*, Graz, 13.02.2024.
 1.	*Understanding Pseudo‐Archaeology and its Impact*, Museology PhD Forum, Manchester (UK), 26.01.2012.
 
     ## Posters
-1.	Krottmaier, Sina; Frasson, Pamela; Zuanni, Chiara; *The ReInHerit Digital Hub: #makeityourown*, CaTCH – Capturing the IntAngible of Cultural Heritage, H2020 Vast, H2020 Intavia, Maribor (Slovenia), 2023.
+1. Sean Winslow, Sina Krottmaier, Fabio Tosques, Chiara Zuanni, *A Low-Cost Reflectance Transformation Imaging Dome*, DHd 2024.[link](https://zenodo.org/records/10722327)
+1.	Krottmaier, Sina; Frasson, Pamela; Zuanni, Chiara; *The ReInHerit Digital Hub: #makeityourown*, CaTCH – Capturing the IntAngible of Cultural Heritage, H2020 Vast, H2020 Intavia, Maribor (Slovenia), 2023.[link](https://zenodo.org/records/10051427)
 1.	Schneider, Gerlinde; Scholger, Martina; Scholger, Walter; Steiner, Elisabeth; Stigler, Johannes; Stoff, Sebastian; Tosques, Fabio; Vasold, Gunter; Vogeler, Georg; Zuanni, Chiara: *A long-term archiving and dissemination ecosystem for Humanities' research data*, FORGE 2021, Universität Köln, Köln (Germany), 2021.
 1.	*Musei e digitale durante la pandemia*, AIUCD 2021, University of Pisa, Pisa/online (Italy), 2021. [link](https://aiucd2021.labcd.unipi.it/wp-content/uploads/2021/01/18_Zuanni-AIUCD2021_presentation_105.pdf)
 1.	*Displaying, Viewing and Making Meaning of Archaeology in Museums: Professional and Public Perspectives* (poster) ‐ for the “Seeing, thinking, doing: visualization as archaeological research” session at TAG (Theoretical Archaeology Group) 2013 (Bournemouth, 16-18th December 2013). [Link](https://seeingthinkingdoing.files.wordpress.com/2013/03/tagzuanni.pdf)
