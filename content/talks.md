@@ -16,7 +16,7 @@ toc: false
     ## Guest Lectures, Seminar Talks, and Webinars
 1.	*Digital Heritage and digital audience research*, University of Roma Tre, 28.02.2024.
 1.	*Visitor Studies in the Digital Age*, Universität für Weiterbildung Krems, 26.02.2024.
-1.	*Museums post-COVID-19: reflecting on sustainability in cultural heritage digital transformation*, Webinar for the ReInHerit Smart Tourism Hackathon, online/Nicosia, 12.01.2023. {{< myyoutube og_RPiqamEQ >}}
+1.	*Museums post-COVID-19: reflecting on sustainability in cultural heritage digital transformation*, Webinar for the ReInHerit Smart Tourism Hackathon, online/Nicosia, 12.01.2024. {{< myyoutube og_RPiqamEQ >}}
 1. *Musei e comunicazione digitale*, Master “Heritage Education & Digital Technologies”, Universita' di Roma Tre, Roma/online (Italy), 14.09.2023.
 1.	*Visitor studies in the digital age: understanding digital audience engagement*, ReInHerit Webinars, H2020 Project ReInHerit, online, 07.04.2023. {{< myyoutube DOsh9sgr3ak >}}
 1.	*Collaboration in digital heritage: networks, resources, and digital strategies development*, ReInHerit Webinars, H2020 Project ReInHerit, online, 10.03.2023. {{< myyoutube 5WSE7_cQYNo 0 >}}
@@ -49,6 +49,9 @@ toc: false
 1.	Podiumsdiskussion: Wo steht die digitale Kunstgeschichte in Österreich? Transformationen in Forschung, Lehre und Museum, 22. Tagung des Verbands österreichischer Kunsthistorikerinnen und Kunsthistoriker (VöKK), Universität für Weiterbildung Krems, Krems (Austria), 04.11.2023.
 
     ## Conference/Workshop Papers
+1. *Entwicklung des frühen Sammelns*, Transmediterrane Verflechtungen, University of Graz, 08.11.2024. 
+1. *Topography and Digital*, Transmediterrane Verflechtungen, University of Graz, 07.11.2024.
+1. (with Marcella Tambuscio), *Digital Humanities and Musicology*, in Panel: Transmitting Musical Knowledge in Eighteenth Century European Violin Playing: Tartini’s Scuola delle Nazioni in Light of its Transnational Networks (Pupils, Patrons, Printers), XXXI Convegno Annuale della Società Italiana di Musicologia, Firenze, 26.10.2024. 
 1.	*Exhibition Histories in 3D: Connecting Archives, Objects, and Narratives*, Digital Approaches to Cultural Heritage: Perspectives and Challenges, University of Innsbruck, 20.09.2024.
 1.	*Museum Data: From Objects Records to Collecting Histories*, CLARIAH-AT Summer School in Digital Humanities, Paris Lodron Universität Salzburg, 12.09.2024.
 1.	*Smartphone as heritage*, Science Slam: Gestalte unsere digitale Zukunft!, Graz Museum, 6.6.2024.
