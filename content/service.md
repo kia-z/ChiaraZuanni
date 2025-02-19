@@ -12,6 +12,7 @@ toc: false
 - 2022: Member of the Museumbund Austria Expert Group preparing a report for the relaunch of Kulturpool.
 
 #### Publication boards
+-   Editorial Board for Digital Cultural Heritage series, University of London Press.
 -   Editorial Board for ‘Bloomsbury Studies in Digital Cultures’. [Link](https://www.bloomsbury.com/uk/series/bloomsbury-studies-in-digital-cultures/)
 -   Scientific Board for the journal *Museums and Social Issues*. [Link](https://www.tandfonline.com/journals/ymsi20) 
 -   Scientific Board for the journal *ArcheoLogica Data* (University of Pisa). [Link](https://www.mappalab.eu/en/archeologica-data/)
