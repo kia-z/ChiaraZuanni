@@ -5,6 +5,7 @@ toc: false
 ---
 
 #### Association boards
+-   2025-current: Advisory Board of the Styrian Museum Association [Link](https://www.musis.at/)
 -   2022-current: Board member of Digital Art History Austria. [Link](https://darthist.at/)
 
 #### Expert groups
