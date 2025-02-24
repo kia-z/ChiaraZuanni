@@ -1,7 +1,7 @@
 ---
 title: 'Completed MA Thesis supervision (UniGraz)'
 categories: ["Teaching"]
-statuses: ["supervision"]
+statuses: ["supervisionMA"]
 levels: ["master"]
 weight: "3"
 ---
