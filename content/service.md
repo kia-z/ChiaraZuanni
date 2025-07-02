@@ -12,6 +12,9 @@ toc: false
 - 2022-current: Representing Austria in CEDCHE (EU Expert Group on a common European Data Space for Cultural Heritage). [Link](https://digital-strategy.ec.europa.eu/en/news/expert-group-common-european-data-space-cultural-heritage)
 - 2022: Member of the Museumbund Austria Expert Group preparing a report for the relaunch of Kulturpool.
 
+#### Project advisory boards
+-   2025-current: Advisory Board ERC Consolidator "Present Dead"
+
 #### Publication boards
 -   Editorial Board for Digital Cultural Heritage series, University of London Press.
 -   Editorial Board for ‘Bloomsbury Studies in Digital Cultures’. [Link](https://www.bloomsbury.com/uk/series/bloomsbury-studies-in-digital-cultures/)
@@ -32,6 +35,7 @@ toc: false
 * 2014: Session co-organiser: "Cataloguing Magic. The complex biographies of ritual objects in museum contexts", Theoretical Archaeology Group (TAG) Manchester, December 2014.
 
 #### Conference scientific committees
+* 2025: DH2025 Siena
 * 2024: Museum Big Data, Athens, November 2024
 * 2024: HT’24 (ACM Hypertext)
 * 2023: HT’23 (ACM Hypertext), Rome 
