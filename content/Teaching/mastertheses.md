@@ -6,6 +6,11 @@ levels: ["master"]
 weight: "3"
 ---
 
+* Diana Korol, Preserving Urban Art: Digital Humanities Approach to Documenting Graffiti and Street Art in Graz(2025)
+* Björk Kosir, "Fill in the Gaps" - Exploring the Potential of AI Assisted 3D Reconstructions for Archaeological Research (2025)
+* Alexander Lukas Fruhwirth, Preserving Video Games and their Elements - A Digital Scholarly Edition Approach (2025)
+* Philipp Sebastian Moser, Click & Connect: Adapting Museum Engagement Strategies in the Age of Bluesky (2025)
+* Dominik Delic, "Kulturelles Erbe in 3D" Eine Untersuchung von webbasierten Viewern für 3D-Objekte (2024)
 * Martin Kroißenbrunner, Evaluierung von Text Mining Methoden zur Ermittlung der Fragmentation im Twitter-Diskurs zum Thema österreichische Neutralität (2024)
 * Sabine Zambo, Die Visualisierung von 3D-Modellen im Kulturerbe (2023)
 * (external, as second reader) Xiaozhen Liang, Sustainable cultural tourism: Chinese tourists’ perceptions of authenticity in Chiang Mai Old City, Thailand, Joint International Master in Sustainable Development, University of Leipzig (2023)
