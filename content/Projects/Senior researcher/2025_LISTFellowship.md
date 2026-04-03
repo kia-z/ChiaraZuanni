@@ -1,7 +1,7 @@
 ---
 slug: '/2024_UMJ'
 categories: ["Project"]
-statuses: ["minor"]
+statuses: ["ongoing"]
 date: "2025-06-30"
 title: 'nice* – Mikro-Interventionen für eine geschlechtergerechte #Stadt'
 year: '2025-2026'
